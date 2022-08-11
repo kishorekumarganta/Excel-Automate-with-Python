@@ -1,0 +1,21 @@
+Each Data type offers different properties 
+
+```
+string | text ==> concatenated
+```
+
+Number ==> int or float 
+add, subtract, multiply, divide sum, average 
+
+Boolean ==> and, or 
+
+Datetime ==> Before or after ,Today, Days from now 
+
+List  ==>  get the size ,
+           remove first, last
+           cut in two
+           merge two lists 
+           
+           
+           
+
