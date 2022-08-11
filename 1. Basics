@@ -24,19 +24,19 @@ x_type = type(x)
 print(x_type)
 
 
-Output:(Ctrl+B for Running in Sublime)
-This text
-314159
-3.14159
-False
-[1, 2, 4, 6, 16, 32, 64]
-____________________
-<class 'str'>
-<class 'int'>
-<class 'float'>
-<class 'bool'>
-['apple', 'banana', 'orange', 'strawberry', 'kiwi']
-____________________
-<class 'int'>
-<class 'int'>
-[Finished in 0.2s]
+# Output:
+#(Ctrl+B for Running in Sublime)
+# This text
+# 314159
+# 3.14159
+# False
+# [1, 2, 4, 6, 16, 32, 64]
+# ____________________
+# <class 'str'>
+# <class 'int'>
+# <class 'float'>
+# <class 'bool'>
+# ['apple', 'banana', 'orange', 'strawberry', 'kiwi']
+# ____________________
+# <class 'int'>
+# <class 'int'>
