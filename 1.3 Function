@@ -1,0 +1,19 @@
+Function is a block of code which only runs when it is called.
+
+We can Pass Data known as "Parameters" in to a Function ==> Functions Returns Data as a Result
+
+
+
+def add_one(num):
+  return num+1
+  
+def write_to_excel(table):
+  excel.write(table)
+  
+def average_of_two_numbers(num1,num2):
+  return (num1+num2)/2
+  
+  
+ 
+
+
