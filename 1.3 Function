@@ -13,7 +13,37 @@ def write_to_excel(table):
 def average_of_two_numbers(num1,num2):
   return (num1+num2)/2
   
-  
+
+
+
+Library= A file or Multiple Files containing a set of Functions that we wanna include in our application.
+
+
+Libraries provide specialized functions for any needs.
+
+Thousands of opensource libraries
+
+
+Few Imp. for us are:
+
+openpyxl, xlsxwriter ==> Help us to Read/write  into/From an excel file.
+numpy for performing stats
+pandas = vlookup,pivots etc
+matplotlib = for visualizing
+
+
+pypi.org is the place where find.
+pip install "library name"
+just import to use.
+
+
+
+
+
+
+
+
+
  
 
 
