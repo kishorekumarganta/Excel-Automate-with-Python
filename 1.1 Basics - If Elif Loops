@@ -47,6 +47,12 @@ else:
   print("b is not greater than a")
 
 print("____________________")
+
+
+# a FOR Loop is used for iterating over a sequence i.e list,a tuple,a dictionary, a set or a string
+#a while loop used to execute a set of statements as long as the condition is true
+
+
 #####################
 # First FOR Loop
 ####################
