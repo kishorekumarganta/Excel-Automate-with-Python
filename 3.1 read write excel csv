@@ -1,0 +1,12 @@
+3.1  Read From Excel / CSV
+3.1  Write From Excel / CSV
+
+
+Lets Figure out how to tell excel where is the file.
+Absolute path ==> "C:\Users\gkk_I\Desktop\Py4Excel\Excel.xlsx"
+Relative Path ==> current Directory path    "subfolder name\filename.xlsx"
+
+
+
+
+
